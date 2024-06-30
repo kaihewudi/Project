@@ -1,0 +1,66 @@
+{
+  "4317cff3-e4d4-47a1-9165-4589f38aa4d2": {
+    "url": "db://assets/scene",
+    "value": {}
+  },
+  "dcc9bc9c-5b9f-4b9e-a0e3-7b06a14fbec9": {
+    "url": "db://assets/script",
+    "value": {}
+  },
+  "ab20e7a1-d5cc-4187-94e6-8609116a5e66": {
+    "url": "db://assets/script/ArtButton.ts",
+    "value": {}
+  },
+  "07ef1d04-10c5-496a-84e7-906f2fe8d08d": {
+    "url": "db://assets/script/GridPanel.ts",
+    "value": {}
+  },
+  "f8550793-32b4-4831-9bb0-1d7f71dec789": {
+    "url": "db://assets/scene/scene.scene",
+    "value": {
+      "depends": [
+        "f8550793-32b4-4831-9bb0-1d7f71dec789",
+        "b730527c-3233-41c2-aaf7-7cdab58f9749@f9941",
+        "c503d4e9-c433-4643-9b33-009d274a4ce5@f9941"
+      ],
+      "dependScripts": [
+        "07ef1d04-10c5-496a-84e7-906f2fe8d08d",
+        "ab20e7a1-d5cc-4187-94e6-8609116a5e66"
+      ]
+    }
+  },
+  "8b65d8ab-3a27-4806-af09-5d881ae85194": {
+    "url": "db://assets/sprites",
+    "value": {}
+  },
+  "c503d4e9-c433-4643-9b33-009d274a4ce5": {
+    "url": "db://assets/sprites/button.png",
+    "value": {
+      "depends": []
+    }
+  },
+  "c503d4e9-c433-4643-9b33-009d274a4ce5@6c48a": {
+    "url": "db://assets/sprites/button.png@6c48a",
+    "value": {
+      "depends": [
+        "c503d4e9-c433-4643-9b33-009d274a4ce5"
+      ]
+    }
+  },
+  "c503d4e9-c433-4643-9b33-009d274a4ce5@f9941": {
+    "url": "db://assets/sprites/button.png@f9941",
+    "value": {
+      "depends": [
+        "c503d4e9-c433-4643-9b33-009d274a4ce5@6c48a"
+      ]
+    }
+  },
+  "c9525a10-e092-4f99-b315-1f96ff729f85": {
+    "url": "db://assets/scene/scene-2d.scene",
+    "value": {}
+  },
+  "3579c471-3adf-46e7-89e8-faf16f1c5161": {
+    "url": "db://assets/script/BigOtest.ts",
+    "value": {}
+  }
+}

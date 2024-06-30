@@ -1,0 +1,122 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "C:\\Users\\hp\\NewProject\\assets\\scene.meta": {
+      "time": 1719668996526.3306
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\scene": {
+      "time": 1719669464834.9924,
+      "uuid": "4317cff3-e4d4-47a1-9165-4589f38aa4d2"
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\script.meta": {
+      "time": 1719669002375.3828
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\script": {
+      "time": 1719669026794.2598,
+      "uuid": "dcc9bc9c-5b9f-4b9e-a0e3-7b06a14fbec9"
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\script\\ArtButton.ts.meta": {
+      "time": 1719669033407.4976
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\script\\GridPanel.ts.meta": {
+      "time": 1719669033408.4949
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\script\\ArtButton.ts": {
+      "time": 1719668736570.1013,
+      "uuid": "ab20e7a1-d5cc-4187-94e6-8609116a5e66"
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\script\\GridPanel.ts": {
+      "time": 1719585557110.6453,
+      "uuid": "07ef1d04-10c5-496a-84e7-906f2fe8d08d"
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\scene\\scene.scene.meta": {
+      "time": 1719669033419.4656
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\scene\\scene.scene": {
+      "time": 1719669800431.0857,
+      "uuid": "f8550793-32b4-4831-9bb0-1d7f71dec789"
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\sprites.meta": {
+      "time": 1719669089434.8904
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\sprites": {
+      "time": 1719669164870.133,
+      "uuid": "8b65d8ab-3a27-4806-af09-5d881ae85194"
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\sprites\\button.png.meta": {
+      "time": 1719669164917.0076
+    },
+    "C:\\Users\\hp\\NewProject\\assets\\sprites\\button.png": {
+      "time": 1606532736000,
+      "uuid": "c503d4e9-c433-4643-9b33-009d274a4ce5"
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/scene": {
+      "time": 1719669464000,
+      "uuid": "4317cff3-e4d4-47a1-9165-4589f38aa4d2"
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/script": {
+      "time": 1719672421676.1985,
+      "uuid": "dcc9bc9c-5b9f-4b9e-a0e3-7b06a14fbec9"
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/sprites": {
+      "time": 1719669164000,
+      "uuid": "8b65d8ab-3a27-4806-af09-5d881ae85194"
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts": {
+      "time": 1719672036607.5723,
+      "uuid": "ab20e7a1-d5cc-4187-94e6-8609116a5e66"
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts": {
+      "time": 1719672101737.6938,
+      "uuid": "07ef1d04-10c5-496a-84e7-906f2fe8d08d"
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/scene.meta": {
+      "time": 1719668996000
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/script.meta": {
+      "time": 1719669002000
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/sprites.meta": {
+      "time": 1719669088000
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts.meta": {
+      "time": 1719669032000
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts.meta": {
+      "time": 1719669032000
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/scene/scene.scene": {
+      "time": 1719672424617.5452,
+      "uuid": "f8550793-32b4-4831-9bb0-1d7f71dec789"
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/sprites/button.png": {
+      "time": 1606532736000,
+      "uuid": "c503d4e9-c433-4643-9b33-009d274a4ce5"
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/scene/scene.scene.meta": {
+      "time": 1719669032000
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/sprites/button.png.meta": {
+      "time": 1719669164000
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts.meta": {
+      "time": 1719672421688.6252
+    },
+    "/Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts": {
+      "time": 1719672375733.2341,
+      "uuid": "3579c471-3adf-46e7-89e8-faf16f1c5161"
+    }
+  },
+  "missing": {
+    "8b65d8ab-3a27-4806-af09-5d881ae85194": {
+      "path": "C:\\Users\\hp\\NewProject\\assets\\sprit",
+      "time": 1719669089428.8882,
+      "removeTime": 1719669094047
+    },
+    "c9525a10-e092-4f99-b315-1f96ff729f85": {
+      "path": "C:\\Users\\hp\\NewProject\\assets\\scene\\scene-2d.scene",
+      "time": 1719669453518.468,
+      "removeTime": 1719669464853
+    }
+  }
+}

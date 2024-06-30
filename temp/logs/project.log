@@ -1,0 +1,11 @@
+6-29-2024 22:33:10 - log: Load engine in /Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine
+6-29-2024 22:33:11 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+6-29-2024 22:33:11 - log: Register native engine in /Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+6-29-2024 22:34:28 - info: [Scene] [PHYSICS]: using builtin.
+6-29-2024 22:34:29 - log: [Scene] Cocos Creator v3.8.0
+6-29-2024 22:34:29 - info: [Scene] Forward render pipeline initialized.
+6-29-2024 22:34:30 - info: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+6-29-2024 22:39:30 - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+6-29-2024 22:39:30 - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+6-29-2024 22:39:38 - warn: 为更好地打开脚本，请在 偏好设置 -> 外部程序 -> 默认脚本编辑器 里配置打开脚本的应用程序

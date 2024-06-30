@@ -1,0 +1,265 @@
+debug: Sat, 29 Jun 2024 14:34:09 GMT
+debug: Project: /Users/geminy/Desktop/mianshi2
+debug: Targets: editor,preview
+debug: Incremental file seems great.
+debug: Engine path: /Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Loading cache costs 1.9848239421844482ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,gfx-empty,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,occlusion-query,geometry-renderer,debug-renderer,audio,video,xr,light-probe,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette,procedural-animation,custom-pipeline,websocket,websocket-server
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc"
+  }
+}
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Loading cache costs 1.659633994102478ms.
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc"
+  }
+}
+debug: Sync engine features: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview
+debug: Reset databases. Enumerated domains: [
+  {
+    "root": "db://internal/",
+    "physical": "/Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets"
+  },
+  {
+    "root": "db://assets/",
+    "physical": "/Users/geminy/Desktop/mianshi2/assets"
+  }
+]
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc",
+    "db://internal/": "file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/",
+    "db://assets/": "file:///Users/geminy/Desktop/mianshi2/assets/"
+  }
+}
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc",
+    "db://internal/": "file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/",
+    "db://assets/": "file:///Users/geminy/Desktop/mianshi2/assets/"
+  }
+}
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 23.47583794593811ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 3
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:39 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:58 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/gfx-empty from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-empty.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/sorting from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/sorting.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/geometry-renderer from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/geometry-renderer.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/xr from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/xr.
+debug: Resolve cce:/internal/x/cc-fu/light-probe from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/light-probe.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/custom-pipeline from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/custom-pipeline.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:01:38 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:58 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Inspect file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts
+debug: Resolve cc from file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts.
+debug: Inspect file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts.
+debug: Inspect file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 923.2175389528275ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:39 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:58 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/sorting from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/sorting.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:01:38 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:59 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Inspect file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts
+debug: Resolve cc from file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts.
+debug: Inspect file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts.
+debug: Inspect file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 641.9461189508438ms.
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 2402.8070709705353ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 3
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:58 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:01:15 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts.
+debug: Target(editor) ends with cost 104.35838401317596ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:59 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:01:15 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts.
+debug: Target(preview) ends with cost 101.50346398353577ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:01:15 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:13:50 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts.
+debug: Detected change: file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts. Last mtime: Sat Jun 29 2024 21:45:36 GMT+0800 (中国标准时间)@ab20e7a1-d5cc-4187-94e6-8609116a5e66, Current mtime: Sat Jun 29 2024 22:40:36 GMT+0800 (中国标准时间)@ab20e7a1-d5cc-4187-94e6-8609116a5e66
+debug: Inspect file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts.
+debug: Inspect file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts.
+debug: Detected change: file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts. Last mtime: Fri Jun 28 2024 22:39:16 GMT+0800 (中国标准时间)@07ef1d04-10c5-496a-84e7-906f2fe8d08d, Current mtime: Sat Jun 29 2024 22:41:41 GMT+0800 (中国标准时间)@07ef1d04-10c5-496a-84e7-906f2fe8d08d
+debug: Inspect file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 1777.8553059101105ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:01:15 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:13:52 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts.
+debug: Detected change: file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts. Last mtime: Sat Jun 29 2024 21:45:36 GMT+0800 (中国标准时间)@ab20e7a1-d5cc-4187-94e6-8609116a5e66, Current mtime: Sat Jun 29 2024 22:40:36 GMT+0800 (中国标准时间)@ab20e7a1-d5cc-4187-94e6-8609116a5e66
+debug: Inspect file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts.
+debug: Inspect file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts as cce:/internal/x/cc.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts.
+debug: Detected change: file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts. Last mtime: Fri Jun 28 2024 22:39:16 GMT+0800 (中国标准时间)@07ef1d04-10c5-496a-84e7-906f2fe8d08d, Current mtime: Sat Jun 29 2024 22:41:41 GMT+0800 (中国标准时间)@07ef1d04-10c5-496a-84e7-906f2fe8d08d
+debug: Inspect file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 892.9521420001984ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:13:50 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:13:52 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts.
+debug: Target(editor) ends with cost 177.34336602687836ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:13:52 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:13:53 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///Applications/CocosCreator/Creator/3.8.0/CocosCreator.app/Contents/Resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/ArtButton.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/BigOtest.ts.
+debug: Resolve file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts from cce:/internal/x/prerequisite-imports as file:///Users/geminy/Desktop/mianshi2/assets/script/GridPanel.ts.
+debug: Target(preview) ends with cost 154.98190295696259ms.
